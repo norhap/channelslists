@@ -1,0 +1,129 @@
+#NAME TDTChannels
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/1688877.m3u8:La1
+#DESCRIPTION La1
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8:La 1
+#DESCRIPTION La 1
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/1688885.m3u8:La 2
+#DESCRIPTION La 2
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8:La 2
+#DESCRIPTION La 2
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8:TRECE
+#DESCRIPTION TRECE
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//streaming011.gestec-video.com/hls/eltoro_bal.m3u8:El Toro TV
+#DESCRIPTION El Toro TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/1694255.m3u8:24h
+#DESCRIPTION 24h
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8:Euronews
+#DESCRIPTION Euronews
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8:El País
+#DESCRIPTION El País
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//streaming013.gestec-video.com/hls/negociostv.m3u8:Negocios TV
+#DESCRIPTION Negocios TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8:El Confidencial
+#DESCRIPTION El Confidencial
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/1712295.m3u8:Teledeporte
+#DESCRIPTION Teledeporte
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/6712432.m3u8:+tdp
+#DESCRIPTION +tdp
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8:Esport 3 GEO CAT
+#DESCRIPTION Esport 3 GEO CAT
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8:Esport 3 GEO
+#DESCRIPTION Esport 3 GEO
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8:ETB Deportes
+#DESCRIPTION ETB Deportes
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8:RealMadrid TV
+#DESCRIPTION RealMadrid TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//cdn318.fractalmedia.es/live319/hls/cudtv/high/index.m3u8:UD Las Palmas TV
+#DESCRIPTION UD Las Palmas TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//tv.radiocast.es%3a5443/vinxtv/streams/vinxtvlive.m3u8:Vinx TV Asturias
+#DESCRIPTION Vinx TV Asturias
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8:Clan TV
+#DESCRIPTION Clan TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//canadaremar2.todostreaming.es/live/peque-pequetv.m3u8:Pequeradio TV
+#DESCRIPTION Pequeradio TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8:Cartoon Network Latino
+#DESCRIPTION Cartoon Network Latino
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8:Cartoon Network Latino
+#DESCRIPTION Cartoon Network Latino
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8:¡HOLA! Play
+#DESCRIPTION ¡HOLA! Play
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//cdnlive.codev8.net/rtvalive/smil%3achannel1.smil/playlist.m3u8:Canal Sur Andalucía
+#DESCRIPTION Canal Sur Andalucía
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//cdnlive.codev8.net/rtvalive/smil%3achannel22.smil/playlist.m3u8:Canal Sur 2 Andalucía
+#DESCRIPTION Canal Sur 2 Andalucía
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//limited38.todostreaming.es/live/101tv-web101tv.m3u8:101TV Málaga
+#DESCRIPTION 101TV Málaga
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//adc-hls.flumotion.com/playlist.m3u8:Onda Cádiz
+#DESCRIPTION Onda Cádiz
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//cloudvideo.servers10.com%3a8081/8020/index.m3u8:Córdoba TV
+#DESCRIPTION Córdoba TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//streamer.zapitv.com/PTV_sevilla/index.m3u8:PTV Sevilla
+#DESCRIPTION PTV Sevilla
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//interalmeria.tv/directo/live.m3u8:InterAlmeria.TV
+#DESCRIPTION InterAlmeria.TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8:Popular TV Cantabria
+#DESCRIPTION Popular TV Cantabria
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/apple#SERVICE 4097:Castilla-La Mancha Media
+#DESCRIPTION Castilla-La Mancha Media
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8:TV3 GEO CAT
+#DESCRIPTION TV3 GEO CAT
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8:324
+#DESCRIPTION 324
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8:33 GEO CAT
+#DESCRIPTION 33 GEO CAT
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//directes-tv-es.ccma.cat/live-origin/c33-super3-hls/master.m3u8:33 GEO
+#DESCRIPTION 33 GEO
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//directes-tv-cat.ccma.cat/live-origin/super3-hls/master.m3u8:Super3 GEO CAT
+#DESCRIPTION Super3 GEO CAT
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//directes-tv-es.ccma.cat/live-origin/super3-hls/master.m3u8:Super3 GEO
+#DESCRIPTION Super3 GEO
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8:Telemadrid
+#DESCRIPTION Telemadrid
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8:LaOtra
+#DESCRIPTION LaOtra
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8:À Punt
+#DESCRIPTION À Punt
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//elche7tv.gestec-video.com/hls/canal2.m3u8:Elche 7 TV
+#DESCRIPTION Elche 7 TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//europa-crtvg.flumotion.com/playlist.m3u8:TVG
+#DESCRIPTION TVG
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//amodino-crtvg.flumotion.com/playlist.m3u8:TVG 2
+#DESCRIPTION TVG 2
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//directo.tvferrol.es/tv.m3u8:TV Ferrol
+#DESCRIPTION TV Ferrol
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//cloud.streamingconnect.tv/hls/televigo/televigo.m3u8:TeleVigo
+#DESCRIPTION TeleVigo
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8:ETB 1
+#DESCRIPTION ETB 1
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8:ETB 2
+#DESCRIPTION ETB 2
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//cloudbilbao.todostreaming.es/live/telebilbao-livestream.m3u8:TeleBilbao
+#DESCRIPTION TeleBilbao
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//directes-tv-cat.ccma.cat/live-origin/tvi-hls/master.m3u8:TV3CAT
+#DESCRIPTION TV3CAT
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//rtv-murcia-live.globalmest.com/principal/smil%3aprincipal.smil/playlist.m3u8:7 R. de Murcia
+#DESCRIPTION 7 R. de Murcia
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8:Sport Italia
+#DESCRIPTION Sport Italia
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp%3agppfydfzpSUn9Udy.stream/playlist.m3u8:Cubavisión
+#DESCRIPTION Cubavisión
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//streamtv.mediasector.es/hls/activatv/index.m3u8:Activa TV España
+#DESCRIPTION Activa TV España
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//cloudvideo.servers10.com%3a8081/8004/index.m3u8:Cadena Elite España
+#DESCRIPTION Cadena Elite España
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//video20.klm99.com%3a3212/stream/play.m3u8:VIVA
+#DESCRIPTION VIVA
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//video20.klm99.com%3a3919/stream/play.m3u8:VIVA TV
+#DESCRIPTION VIVA TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//ventdelnord.tv%3a8080/mola/directe.m3u8:Molahits TV
+#DESCRIPTION Molahits TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//urbanrevolution.es%3a8443/live/TV/master.m3u8:La Urban TV España
+#DESCRIPTION La Urban TV España
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//cloudvideo.servers10.com%3a8081/8136/index.m3u8:Spektra TV España
+#DESCRIPTION Spektra TV España
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//cloudvideo.servers10.com%3a8081/stztelebista/index.m3u8:STZ TV
+#DESCRIPTION STZ TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//streamtv2.elitecomunicacion.cloud%3a3144/live/verbenatvlive.m3u8:Verbena TV España
+#DESCRIPTION Verbena TV España
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_high/index.m3u8:4FUN TV Polonia
+#DESCRIPTION 4FUN TV Polonia

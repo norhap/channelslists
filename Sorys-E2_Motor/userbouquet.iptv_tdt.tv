@@ -1,0 +1,21 @@
+#NAME IPTV TDT
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//cdn.elsalvadordigital.com%3a1935/wowtv/wowtv/playlist.m3u8?:Wow TV
+#DESCRIPTION Wow TV
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8:La Otra
+#DESCRIPTION La Otra
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//186.0.233.76%3a1935/Garage/garage.smil/.m3u8:Garage TV
+#DESCRIPTION Garage TV
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//ventdelnord.tv%3a8080/mola/directe.m3u8:Molahits TV España
+#DESCRIPTION Molahits TV España
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8:Melilla TV
+#DESCRIPTION Melilla TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/canalextremaduralive/smil%3achannel1DVR.smil/playlist.m3u8:Canal Extremadura
+#DESCRIPTION Canal Extremadura
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//livees.cgtn.com/1000e/prog_index.m3u8:CGTN Español
+#DESCRIPTION CGTN Español
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//livestreamcdn.net%3a1935/ExtremaTV/ExtremaTV/playlist.m3u8:Extrema TV
+#DESCRIPTION Extrema TV
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//interalmeria.tv/directo/live.m3u8:interalmería HD
+#DESCRIPTION interalmería HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//europa-crtvg.flumotion.com/playlist.m3u8:TV Galicia
+#DESCRIPTION TV Galicia
