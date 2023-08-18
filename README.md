@@ -1,2 +1,2 @@
 # channelslists
- Channels Lists by Sorys
+ Channels Lists by Sorys and vuplusmania
