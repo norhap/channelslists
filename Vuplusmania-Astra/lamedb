@@ -6989,6 +6989,9 @@ p:CSAT,C:0000
 200c:00c00000:0430:0001:25:0:0
 NRJ HITS
 p:CSAT,C:0000
+200d:00c00000:0430:0001:1:0:0
+11856V SID 0x200d
+p:DVB-S2 8PSK 11856V 19.2Â°E
 200e:00c00000:0430:0001:25:0:0
 CINE+ CLUB
 p:CSAT,C:0000
@@ -8529,5 +8532,5 @@ p:ARD
 WDR Test A
 p:ARD
 end
-# 184 transponders and 2658 services.
-# Created by E-Channelizer v4.0.1 on 17 ago., 2023 at 19:52 - http://www.echannelizer.com
+# 184 transponders and 2659 services.
+# Created by E-Channelizer v4.0.1 on 24 ago., 2023 at 21:55 - http://www.echannelizer.com
