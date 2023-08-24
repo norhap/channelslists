@@ -1,0 +1,47 @@
+#NAME Mas IPTV
+#SERVICE 1:64:4c:0:0:0:0:0:0:0:
+#DESCRIPTION :::::MUSICA:::
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1300:ONE 1 HD
+#DESCRIPTION ONE 1 HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8:Music Top HD
+#DESCRIPTION Music Top HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//tv.portalfoxmix.club%3a1935/portalfoxmix/portalfoxmix/playlist.m3u8?JoCaRoIPTV.m3u8:PortalFoxmix
+#DESCRIPTION PortalFoxmix
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8:RETRO MUSIC HD
+#DESCRIPTION RETRO MUSIC HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1200:MTV CLIPES 1
+#DESCRIPTION MTV CLIPES 1
+#SERVICE 1:64:4d:0:0:0:0:0:0:0:
+#DESCRIPTION :::::ADULTOS::
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigass.m3u8:Big Ass HD
+#DESCRIPTION Big Ass HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigdick.m3u8:Big Dick HD
+#DESCRIPTION Big Dick HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigtits.m3u8:Big Tits HD
+#DESCRIPTION Big Tits HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/blowjob.m3u8:Blowjob HD
+#DESCRIPTION Blowjob HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/cuckold.m3u8:Cuckold HD
+#DESCRIPTION Cuckold HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/fetish.m3u8:Fetish HD
+#DESCRIPTION Fetish HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/latina.m3u8:Latina HD
+#DESCRIPTION Latina HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/pov.m3u8:POV HD
+#DESCRIPTION POV HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/russian.m3u8:Russian HD
+#DESCRIPTION Russian HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/teen.m3u8:Teen HD
+#DESCRIPTION Teen HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/threesome.m3u8:Threesome HD
+#DESCRIPTION Threesome HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/asian.m3u8:Asian
+#DESCRIPTION Asian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/blonde.m3u8:Blonde
+#DESCRIPTION Blonde
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.adultiptv.net/brunette.m3u8:Brunette
+#DESCRIPTION Brunette
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ec5453559f0.streamlock.net/mexicotv/smil%3amiamitvmexicoROKU/playlist.m3u8:Miami TV México
+#DESCRIPTION Miami TV México
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.151.233.20%3a8000/dna-6233-tv-pc.m3u8:Extasy HD
+#DESCRIPTION Extasy HD
