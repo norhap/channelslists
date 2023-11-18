@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- Created by E-Channelizer on 24 ago., 2023 at 21:55 - http://www.echannelizer.com -->
+<!-- Created by E-Channelizer on 18 nov., 2023 at 19:59 - http://www.echannelizer.com -->
 <satellites>
 	<sat name="13.0E Hotbird 13B/13C/13E" flags="1" position="130">
 		<transponder frequency="10719000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2" onid="318" tsid="11000" />
@@ -147,6 +147,7 @@
 		<transponder frequency="11126000" symbol_rate="22000000" polarization="1" fec_inner="2" system="1" modulation="2" onid="1" tsid="1044" />
 		<transponder frequency="11127000" symbol_rate="22000000" polarization="1" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="11156000" symbol_rate="22000000" polarization="1" fec_inner="4" system="0" modulation="1" onid="1" tsid="1046" />
+		<transponder frequency="11170000" symbol_rate="22000000" polarization="0" fec_inner="3" system="1" modulation="2" tsid="9" />
 		<transponder frequency="11171000" symbol_rate="22000000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="11185000" symbol_rate="22000000" polarization="1" fec_inner="2" system="1" modulation="2" onid="1" tsid="1048" />
 		<transponder frequency="11186000" symbol_rate="22000000" polarization="1" fec_inner="4" system="0" modulation="1" />
@@ -247,8 +248,10 @@
 		<transponder frequency="12603000" symbol_rate="22000000" polarization="0" fec_inner="4" system="0" modulation="1" onid="1" tsid="1111" />
 		<transponder frequency="12604000" symbol_rate="22000000" polarization="0" fec_inner="4" system="0" modulation="1" />
 		<transponder frequency="12633000" symbol_rate="22000000" polarization="0" fec_inner="4" system="0" modulation="1" onid="1" tsid="1113" />
+		<transponder frequency="12640000" symbol_rate="23500000" polarization="1" fec_inner="3" system="1" modulation="2" onid="1" tsid="1114" />
 		<transponder frequency="12662000" symbol_rate="22000000" polarization="0" fec_inner="4" system="0" modulation="1" onid="1" tsid="1115" />
 		<transponder frequency="12663000" symbol_rate="22000000" polarization="0" fec_inner="4" system="0" modulation="1" />
+		<transponder frequency="12669000" symbol_rate="23500000" polarization="1" fec_inner="3" system="1" modulation="2" onid="1" tsid="1116" />
 		<transponder frequency="12692000" symbol_rate="22000000" polarization="0" fec_inner="4" system="0" modulation="1" onid="1" tsid="1117" />
 		<transponder frequency="12699000" symbol_rate="23500000" polarization="1" fec_inner="3" system="1" modulation="2" onid="1" tsid="1118" />
 		<transponder frequency="12728000" symbol_rate="23500000" polarization="1" fec_inner="2" system="1" modulation="2" onid="1" tsid="1120" />
