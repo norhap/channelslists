@@ -33,7 +33,6 @@
 #DESCRIPTION ●●●●● Hispasat 1D / Hispasat 1E (30.0W) ●●●●●
 #SERVICE 1:64:8e:0:0:0:0:0:0:0:
 #DESCRIPTION ————  Meo  ————
-#SERVICE 1:0:1:1794:26:36:fed40000:0:0:0:
 #SERVICE 1:0:1:17c4:2f:36:fed40000:0:0:0:
 #SERVICE 1:0:1:17ab:2f:36:fed40000:0:0:0:
 #SERVICE 1:0:19:139a:30:36:fed40000:0:0:0:

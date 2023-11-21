@@ -1,9 +1,9 @@
 #NAME Radios
-#SERVICE 1:64:4e:0:0:0:0:0:0:0:
+#SERVICE 1:64:50:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●●● Astra 1KR / Astra 1L / Astra 1M / Astra 1N (19.2E) ●●●●●
 #SERVICE 1:0:2:18f2:3f4:1:c00000:0:0:0:
 #SERVICE 1:0:2:18f3:3f4:1:c00000:0:0:0:
-#SERVICE 1:64:4f:0:0:0:0:0:0:0:
+#SERVICE 1:64:51:0:0:0:0:0:0:0:
 #DESCRIPTION ●●●●● TDT ●●●●●
 #SERVICE 1:0:2:118:e:22d4:eeee0000:0:0:0:
 #SERVICE 1:0:2:11a:e:22d4:eeee0000:0:0:0:
