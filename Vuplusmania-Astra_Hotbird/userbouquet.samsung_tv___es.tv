@@ -357,7 +357,7 @@
 #DESCRIPTION Hollywire
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//d2aem51f58ttux.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qe0jlk1pnefgl-ssai-prd/playlist.m3u8?ads.device_did=%257BPSID%257D&ads.device_dnt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D:Cops
 #DESCRIPTION Cops
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//d2j25awujlvs9u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/DrGMedicalExaminer-prod/playlist.m3u8?ads.device_did=%257BPSID%257D&ads.device_dnt=%257BTARGETOPT%257D&ads.us_privacy=1YNY&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.ssai=SSSLIVE:Dr. G%3a Medical Examiner
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//d2j25awujlvs9u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/DrGMedicalExaminer-prod/playlist.m3u8?ads.device_did=%257BPSID%257D&ads.device_dnt=%257BTARGETOPT%257D&ads.us_privacy=1YNY&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.ssai=SSSLIVE:Dr. G: Medical Examiner
 #DESCRIPTION Dr. G: Medical Examiner
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_forensicfiles_001.m3u8?ads.caid=ForensicFiles&ads.csid=samsungtvplus_us_forensicfiles_ssai&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&ads.amznappId=14d05815c45c4b5595d7be0dbcaaaebc&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%257BTARGETOPT%257D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%257BPSID%257D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%257BAPP_NAME%257D&ads.xumo_contentId=1072&ads.xumo_contentName=ForensicFiles&ads.xumo_providerId=1072&ads.xumo_providerName=ForensicFiles&ads.xumo_channelId=9999540&ads.xumo_imdb_genre=Crime&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%257BAPP_DOMAIN%257D&ads.playerProf=ssai:Forensic Files
 #DESCRIPTION Forensic Files
@@ -479,7 +479,7 @@
 #DESCRIPTION FilmRise Action
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//d81f847ce52b4de18d41134229faa86e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_DocumentaryPlus/playlist.m3u8?ads.wurl_channel=894&ads.wurl_name=DocumentaryPlus&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%257BPSID%257D&ads.targetopt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D:Documentary+
 #DESCRIPTION Documentary+
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//40f8d33f8895435f9e63aa829c93bba0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_CinevaultClassics/playlist.m3u8?ads.wurl_channel=1043&ads.wurl_name=CinevaultClassics&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%257BPSID%257D&ads.targetopt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D:CINEVAULT%3a Classics
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//40f8d33f8895435f9e63aa829c93bba0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_CinevaultClassics/playlist.m3u8?ads.wurl_channel=1043&ads.wurl_name=CinevaultClassics&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%257BPSID%257D&ads.targetopt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D:CINEVAULT: Classics
 #DESCRIPTION CINEVAULT: Classics
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//cca0faa1668740379640339007b036ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ThePreviewChannel/playlist.m3u8?ads.wurl_channel=501&ads.wurl_name=ThePreviewChannel&ads.us_privacy=1YNY&ads.psid=%257BPSID%257D&ads.targetopt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.coppa=0:The Preview Channel
 #DESCRIPTION The Preview Channel
@@ -653,7 +653,7 @@
 #DESCRIPTION Caillou
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a2aea6bffc400076bb4e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%257BTARGETOPT%257D&deviceId=%257BPSID%257D&advertisingId=%257BPSID%257D&us_privacy=%257BUS_PRIVACY%257D&samsung_app_domain=%257BAPP_DOMAIN%257D&samsung_app_name=%257BAPP_NAME%257D&embedPartner=samsung-tvplus&gdprConsent=%257BTC_STRING%257D&gdpr=1:Pluto TV Animakids
 #DESCRIPTION Pluto TV Animakids
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//d1jm459skctcq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ghyoqfxveqzo/lrs.m3u8?ads.device_did=%257BPSID%257D&ads.device_dnt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.consent=%257BTC_STRING%257D:Rabbids %3a La invasion
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//d1jm459skctcq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ghyoqfxveqzo/lrs.m3u8?ads.device_did=%257BPSID%257D&ads.device_dnt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.consent=%257BTC_STRING%257D:Rabbids : La invasion
 #DESCRIPTION Rabbids : La invasion
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%257BTARGETOPT%257D&deviceId=%257BPSID%257D&advertisingId=%257BPSID%257D&us_privacy=%257BUS_PRIVACY%257D&samsung_app_domain=%257BAPP_DOMAIN%257D&samsung_app_name=%257BAPP_NAME%257D&embedPartner=samsung-tvplus&gdprConsent=%257BTC_STRING%257D&gdpr=1:Bob Esponja
 #DESCRIPTION Bob Esponja
@@ -791,7 +791,7 @@
 #DESCRIPTION Jellytoon
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//fda836df464945ceba2aaecfb771f934.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_XilamTV/playlist.m3u8?ads.wurl_channel=1005&ads.wurl_name=XilamTV&ads.coppa=1&ads.psid=%257BPSID%257D&ads.targetopt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.consent=%257BTC_STRING%257D:Xilam TV
 #DESCRIPTION Xilam TV
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//d9e4vvlqt4gs1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wfr2fktwv6l7b/lcf.m3u8?ads.device_did=%257BPSID%257D&ads.device_dnt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.consent=%257BTC_STRING%257D:Les Lapins Crétins%3a Invasion
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//d9e4vvlqt4gs1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wfr2fktwv6l7b/lcf.m3u8?ads.device_did=%257BPSID%257D&ads.device_dnt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.consent=%257BTC_STRING%257D:Les Lapins Crétins: Invasion
 #DESCRIPTION Les Lapins Crétins: Invasion
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/609a33d06972da0007748ecf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%257BTARGETOPT%257D&deviceId=%257BPSID%257D&advertisingId=%257BPSID%257D&us_privacy=%257BUS_PRIVACY%257D&samsung_app_domain=%257BAPP_DOMAIN%257D&samsung_app_name=%257BAPP_NAME%257D&embedPartner=samsung-tvplus&gdprConsent=%257BTC_STRING%257D&gdpr=1:Bob L'eponge
 #DESCRIPTION Bob L'eponge
@@ -873,7 +873,7 @@
 #DESCRIPTION Deal or No Deal US
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//0a644b20819046a0935afa1cf6debf23.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-gb_MechPlus/playlist.m3u8?ads.wurl_channel=1413&ads.wurl_name=MechPlus&ads.coppa=0&ads.psid=%257BPSID%257D&ads.targetopt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.consent=%257BTC_STRING%257D:Mech+
 #DESCRIPTION Mech+
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//d3ivftax25b626.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7x6a534gb4q0n/playlist.m3u8?ads.device_did=%257BPSID%257D&ads.device_dnt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.consent=%257BTC_STRING%257D:Pointless UK%3a 'Powered by Banijay'
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//d3ivftax25b626.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7x6a534gb4q0n/playlist.m3u8?ads.device_did=%257BPSID%257D&ads.device_dnt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.consent=%257BTC_STRING%257D:Pointless UK: 'Powered by Banijay'
 #DESCRIPTION Pointless UK: 'Powered by Banijay'
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//d36jpyyja698yd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Revry2-prod/playlist.m3u8?ads.device_did=%257BPSID%257D&ads.device_dnt=%257BTARGETOPT%257D&ads.us_privacy=1YNY&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.ssai=SSSLIVE:Revry
 #DESCRIPTION Revry
@@ -959,7 +959,7 @@
 #DESCRIPTION GoUSA TV
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-lovepetsemea-samsunguk/playlist.m3u8?ads.did=%257BPSID%257D&ads.dnt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.tc_string=%257BTC_STRING%257D&ads.coppa=0:Love Pets
 #DESCRIPTION Love Pets
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//dy4rd1cwfulvo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gk8rd1up1pdpy/playlist.m3u8?ads.device_did=%257BPSID%257D&ads.device_dnt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.consent=%257BTC_STRING%257D:Masterchef UK%3a 'Powered by Banijay'
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//dy4rd1cwfulvo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gk8rd1up1pdpy/playlist.m3u8?ads.device_did=%257BPSID%257D&ads.device_dnt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.consent=%257BTC_STRING%257D:Masterchef UK: 'Powered by Banijay'
 #DESCRIPTION Masterchef UK: 'Powered by Banijay'
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//1aff0fa3bd654a519fb776e986e4d6b3.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_GreatBritishMenu/playlist.m3u8?ads.wurl_channel=1231&ads.wurl_name=GreatBritishMenu&ads.coppa=0&ads.psid=%257BPSID%257D&ads.targetopt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.consent=%257BTC_STRING%257D:Great British Menu
 #DESCRIPTION Great British Menu
@@ -1367,7 +1367,7 @@
 #DESCRIPTION tvN 꽃보다 청춘 아프리카
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:#EXTINF%3a-1 tvg-id="KRBC3200014XZ" tvg-chno="551" tvg-logo="https%3a//tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200014XZ_20230809T021342SQUARE.png_20230809021343.png" group-title="South Korea" , Mnet 킹덤 %3a 레전더리 워:Mnet 퀸덤2
 #DESCRIPTION Mnet 퀸덤2
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:#EXTINF%3a-1 tvg-id="KRBC3200031KO" tvg-chno="553" tvg-logo="https%3a//tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200031KO_20230809T021450SQUARE.png_20230809021451.png" group-title="South Korea" , tvN 구미호뎐:Mnet 킹덤 %3a 레전더리 워
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:#EXTINF%3a-1 tvg-id="KRBC3200031KO" tvg-chno="553" tvg-logo="https%3a//tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200031KO_20230809T021450SQUARE.png_20230809021451.png" group-title="South Korea" , tvN 구미호뎐:Mnet 킹덤 : 레전더리 워
 #DESCRIPTION Mnet 킹덤 : 레전더리 워
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:#EXTINF%3a-1 tvg-id="KRBC4100005N5" tvg-chno="560" tvg-logo="https%3a//tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100005N5_20230809T021526SQUARE.png_20230809021527.png" group-title="South Korea" , 채널A 이제 만나러 갑니다:tvN 구미호뎐
 #DESCRIPTION tvN 구미호뎐
@@ -1831,9 +1831,9 @@
 #DESCRIPTION Maverick Black Cinema
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//ddniyunj92pl0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2amrzf32ny10z/playlist.m3u8?ads.device_did=%257BPSID%257D&ads.device_dnt=%257BTARGETOPT%257D&ads.us_privacy=1YNY&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.ssai=SSSLIVE:Gravitas Movies
 #DESCRIPTION Gravitas Movies
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//fb9770c9cf584d64b3c5e3a26637d5ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cinevault80s/playlist.m3u8?ads.wurl_channel=691&ads.wurl_name=Cinevault80s&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%257BPSID%257D&ads.targetopt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D:CINEVAULT%3a 80s
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//fb9770c9cf584d64b3c5e3a26637d5ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cinevault80s/playlist.m3u8?ads.wurl_channel=691&ads.wurl_name=Cinevault80s&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%257BPSID%257D&ads.targetopt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D:CINEVAULT: 80s
 #DESCRIPTION CINEVAULT: 80s
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//e7300fca01d348dea7b8f35f2721cc48.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_CinevaultWesterns/playlist.m3u8?ads.wurl_channel=690&ads.wurl_name=CinevaultWesterns&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%257BPSID%257D&ads.targetopt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D:CINEVAULT%3a Westerns
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//e7300fca01d348dea7b8f35f2721cc48.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_CinevaultWesterns/playlist.m3u8?ads.wurl_channel=690&ads.wurl_name=CinevaultWesterns&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%257BPSID%257D&ads.targetopt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D:CINEVAULT: Westerns
 #DESCRIPTION CINEVAULT: Westerns
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f33318210549000806a530/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%257BTARGETOPT%257D&deviceId=%257BPSID%257D&advertisingId=%257BPSID%257D&us_privacy=1YNY&samsung_app_domain=%257BAPP_DOMAIN%257D&samsung_app_name=%257BAPP_NAME%257D&embedPartner=samsung-tvplus:Pluto TV Westerns
 #DESCRIPTION Pluto TV Westerns
