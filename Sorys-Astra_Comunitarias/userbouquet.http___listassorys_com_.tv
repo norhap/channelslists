@@ -1,1 +1,5 @@
 #NAME http://listassorys.com/
+#SERVICE 1:64:50:0:0:0:0:0:0:0:
+#DESCRIPTION :::::CHAMPIONS:::
+#SERVICE 1:64:51:0:0:0:0:0:0:0:
+#DESCRIPTION OTROS
