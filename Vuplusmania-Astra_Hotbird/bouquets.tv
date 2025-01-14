@@ -1,6 +1,6 @@
 #NAME User - bouquets (TV)
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.___astra__19_2_e___.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.movistar_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.movistar__1.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.ec_new_bouquet.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.pluto_tv.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.samsung_tv___es.tv" ORDER BY bouquet

@@ -453,6 +453,9 @@ eeee0000:d405:20bf
 00c00000:03f3:0001
 	s 11361000:22000000:0:2:192:2:0:1:2:0:2
 /
+00c00000:03f4:0001
+	s 11376000:22000000:1:2:192:2:0:1:2:0:2
+/
 00c00000:03f4:0003
 	s 11376000:22000000:1:2:192:2:0:1:2:0:2
 /
@@ -7196,6 +7199,21 @@ p:ZDFvision
 2b7a:00c00000:03f3:0001:25:0:0
 zdf_neo HD
 p:ZDFvision
+18ed:00c00000:03f4:0001:25:0:0
+CGTN HD
+p:TSA
+18ee:00c00000:03f4:0001:25:0:0
+CGTN Documentary
+p:TSA
+18ef:00c00000:03f4:0001:25:0:0
+CGTN Francais
+p:TSA
+18f1:00c00000:03f4:0001:1:0:0
+TVGA EUROPA HD
+p:TSA
+18f7:00c00000:03f4:0001:1:0:0
+Daystar Espanol
+p:TSA
 18f1:00c00000:03f4:0003:1:0:0
 TVGA EUROPA HD
 p:TSA
@@ -10221,5 +10239,5 @@ p:ARD
 WDR Test A
 p:ARD
 end
-# 255 transponders and 3151 services.
-# Created by E-Channelizer v4.0.1 on 25 jul., 2024 at 15:55 - http://www.echannelizer.com
+# 256 transponders and 3156 services.
+# Created by E-Channelizer v4.0.1 on 14 ene., 2025 at 19:17 - http://www.echannelizer.com

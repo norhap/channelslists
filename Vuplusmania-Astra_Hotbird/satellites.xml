@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- Created by E-Channelizer on 25 jul., 2024 at 15:55 - http://www.echannelizer.com -->
+<!-- Created by E-Channelizer on 14 ene., 2025 at 19:17 - http://www.echannelizer.com -->
 <satellites>
 	<sat name="30,0 W" flags="0" position="-300">
 		<transponder frequency="10770000" symbol_rate="30000000" polarization="0" fec_inner="4" system="1" modulation="2" onid="6" tsid="6" />
