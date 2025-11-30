@@ -1,12 +1,9 @@
 #NAME 46.0°E - Vector A.G
 #SERVICE 1:0:19:1:ffff:ffff:1cc2b57:0:0:0:
-#SERVICE 1:0:19:8:ffff:ffff:1cc2b57:0:0:0:
 #SERVICE 1:0:19:2:ffff:ffff:1cc2b57:0:0:0:
 #SERVICE 1:0:19:3:ffff:ffff:1cc2b57:0:0:0:
-#SERVICE 1:0:19:7:ffff:ffff:1cc2b57:0:0:0:
 #SERVICE 1:0:19:d:ffff:ffff:1cc2b57:0:0:0:
 #SERVICE 1:0:19:4:ffff:ffff:1cc2b57:0:0:0:
-#SERVICE 1:0:19:12:ffff:ffff:1cc2b57:0:0:0:
 #SERVICE 1:0:19:16:ffff:ffff:1cc2b57:0:0:0:
 #SERVICE 1:0:19:6:ffff:ffff:1cc2b57:0:0:0:
 #SERVICE 1:0:19:18:ffff:ffff:1cc2b57:0:0:0:
@@ -16,13 +13,10 @@
 #SERVICE 1:0:19:15:ffff:ffff:1cc2b57:0:0:0:
 #SERVICE 1:0:19:e:ffff:ffff:1cc2b57:0:0:0:
 #SERVICE 1:0:19:b:ffff:ffff:1cc2b57:0:0:0:
-#SERVICE 1:0:19:1c:ffff:ffff:1cc2b57:0:0:0:
-#SERVICE 1:0:19:a:ffff:ffff:1cc2b57:0:0:0:
 #SERVICE 1:0:19:c:ffff:ffff:1cc2b57:0:0:0:
-#SERVICE 1:0:19:1a:ffff:ffff:1cc2b57:0:0:0:
-#SERVICE 1:0:19:13:ffff:ffff:1cc2b57:0:0:0:
 #SERVICE 1:0:19:11:ffff:ffff:1cc2b57:0:0:0:
-#SERVICE 1:0:19:9:ffff:ffff:1cc2b57:0:0:0:
 #SERVICE 1:0:19:f:ffff:ffff:1cc2b57:0:0:0:
 #SERVICE 1:0:19:14:ffff:ffff:1cc2b57:0:0:0:
-#SERVICE 1:0:19:28:ffff:ffff:1cc2b57:0:0:0:
+#SERVICE 1:0:19:10:ffff:ffff:1cc2b57:0:0:0:
+#SERVICE 1:0:19:17:ffff:ffff:1cc2b57:0:0:0:
+#SERVICE 1:0:19:27:ffff:ffff:1cc2b57:0:0:0:
